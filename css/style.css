@@ -378,3 +378,9 @@ a{
             margin-left: 1vw;
             bottom: 2vh;
         }
+        #git1{
+            height: 8vh;
+            position: absolute;
+            margin-left: 12vh;
+            bottom: 2vh;
+        }
