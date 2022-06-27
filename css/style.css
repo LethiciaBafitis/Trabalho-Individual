@@ -66,49 +66,49 @@ a{
         color:#ffffff;
         font-size: 20px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto4{
         color:#ffffff;
         font-size: 20px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto5{
         color:#ffffff;
         font-size: 20px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto6{
         color:#ffffff;
         font-size: 20px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
      .texto7{
         color: #ffffff;
         font-size: 20px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
         }
     .texto8{
         color: #ffffff;
         font-size: 20px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto9{
         color:#ffffff;
         font-size: 20px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     
@@ -118,8 +118,8 @@ a{
         position:absolute;
         z-index: 10;
     }
-    .img1{
-        height: 16vh;
+    #img1{
+    max-width: 11.5vw;
     }
     .titulo{
         color:#0bf7e3;
@@ -142,7 +142,7 @@ a{
         color:#ffffff;
         font-size: 23px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto03{
@@ -151,26 +151,26 @@ a{
         margin-left: 2vw;
         text-align: center;
         text-shadow: 1px 1px 10px;
-        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .texto04{
         color: #ffffff;
         font-size: 22px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto05{
         color: #ffffff;
         font-size: 22px;
         margin-left: 2vw;
-        font-family: 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .texto001{
         color: #00ffff;
         text-align: center;
         font-size: 35px;
-        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         margin-left: 1vw;
         text-shadow: 1px 1px 10px;
     }
@@ -178,48 +178,48 @@ a{
         color:#ffffff;
         font-size: 25px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto003{
         color:#ffffff;
         font-size: 21px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .texto004{
         color:#ffffff;
         font-size: 21px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     } 
     .texto005{
         color:#ffffff;
         font-size: 21px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto006{
         color:#ffffff;
         font-size: 21px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto007{
         color:#ffffff;
         font-size: 21px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto008{
         color:#ffffff;
         font-size: 21px;;
         margin-left: 2vw;
-        font-family:'Times New Roman', Times, serif;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         text-shadow: 1px 1px 10px;
     }
     .texto0001{
@@ -239,11 +239,12 @@ a{
         font-family: Georgia, 'Times New Roman', Times, serif;    
     }
    
-    .imagem2{
-        width: 24vw;
+    #imagem2{
+        width: 22vw;
         height:23vh;
         margin-left: 25vw;
         margin-top: 2vh;
+        animation: imagem2 4s infinite;
     }
     .lobo1{
         color:#00ffff;
@@ -269,12 +270,6 @@ a{
         text-shadow: 1px 1px 10px;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
-    .imagem3{
-        width: 22vw;
-        height:21vh;
-        margin-left: 25vw;
-        margin-top: 2vh;
-    }
     .panda1{
         color:#00ffff;
         text-align: center;
@@ -291,12 +286,6 @@ a{
         text-shadow: 1px 1px 10px;
         font-family: Georgia, 'Times New Roman', Times, serif;
     }
-    .imagem4{
-        width: 22vw;
-        height:21vh;
-        margin-left: 25vw;
-        margin-top: 2vh;
-    }
     .panda3{
         color:#ffffff;
         text-align: center;
@@ -312,12 +301,6 @@ a{
         margin-left: 1vw;
         text-shadow: 1px 1px 10px;
         font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-    .imagem5{
-         width: 22vw;
-        height:21vh;
-        margin-left: 25vw;
-        margin-top: 2vh
         }
         .baleia2{
         color:#ffffff;
@@ -343,12 +326,6 @@ a{
             text-shadow: 1px 1px 10px;
             font-family: Georgia, 'Times New Roman', Times, serif;
         }
-        .imagem6{
-            width: 22vw;
-            height:21vh;
-            margin-left: 25vw;
-            margin-top: 2vh
-        }
         .arara2{
         color:#ffffff;
         text-align: center;
@@ -369,8 +346,8 @@ a{
             color: #ffffff;
             text-shadow: 1px 1px 10px;
             font-size: 30px;
-            margin-top: 1vh;
-            margin-left: 9vw;
+            margin-top: 2vh;
+            margin-left: 10vw;
         }
         #imginsta{
             height: 8vh;
@@ -384,3 +361,10 @@ a{
             margin-left: 12vh;
             bottom: 2vh;
         }
+        @keyframes imagem2{
+            0%{margin-left:380px; margin-top: 30px;}
+            50%{margin-left: 315px; margin-top: 30px;}
+            100%{margin-left: 380px; margin-top: 30px;}
+        }
+            
+        
