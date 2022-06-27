@@ -119,7 +119,7 @@ a{
         z-index: 10;
     }
     #img1{
-    max-width: 11.5vw;
+    max-width: 10.5vw;
     }
     .titulo{
         color:#0bf7e3;
@@ -367,4 +367,38 @@ a{
             100%{margin-left: 380px; margin-top: 30px;}
         }
             
-        
+        .imgdiv1{
+            position: absolute;
+            width: 12vw;
+            height: 16vh;
+            left: 45vw;
+            top: 20vh;
+            background-color: #00ffff;
+        }
+        .imagemcont1{
+            width: 13vw;
+        }
+        .imgdiv2{
+            position: absolute;
+            width: 12vw;
+            height: 16vh;
+            left: 59vw;
+            top: 20vh;
+            background-color: #00ffff;
+        }
+        .imgdiv3{
+            position: absolute;
+            width: 12vw;
+            height: 14vh;
+            left: 45vw;
+            top: 40vh;
+            background-color: #00ffff;
+        }
+        .imgdiv4{
+            position: absolute;
+            width: 12vw;
+            height: 14vh;
+            left: 59vw;
+            top: 40vh;
+            background-color: #00ffff;
+        }
